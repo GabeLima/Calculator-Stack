@@ -1,5 +1,3 @@
-package HW2;
-// Gabriello Lima, 112803276, R01
 import java.util.Stack;
 public class HistoryStack{
 	private boolean pushed;
