@@ -1,6 +1,3 @@
-package HW2;
-// Gabriello Lima, 112803276, R01
-
 public class Equation extends HistoryStack {
 	private String equation;
 	private String prefix = "N/A";
