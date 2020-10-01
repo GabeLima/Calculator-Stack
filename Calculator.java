@@ -1,5 +1,3 @@
-package HW2;
-// Gabriello Lima, 112803276, R01
 import java.util.EmptyStackException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
